@@ -1,0 +1,682 @@
+[
+  {
+    "job_role": "Data Scientist",
+    "roadmap": {
+      "Beginner": [
+        "Learn Python basics",
+        "Understand basic statistics",
+        "Intro to SQL and data cleaning"
+      ],
+      "Intermediate": [
+        "Master pandas, numpy, matplotlib",
+        "Study machine learning algorithms",
+        "Build real-world ML projects"
+      ],
+      "Advanced": [
+        "Learn deep learning frameworks (TensorFlow/PyTorch)",
+        "Explore NLP & Computer Vision",
+        "Deploy models to production"
+      ]
+    }
+  },
+  {
+    "job_role": "Frontend Developer",
+    "roadmap": {
+      "Beginner": [
+        "HTML, CSS, and basic JS",
+        "Responsive design and accessibility",
+        "Basic Git and GitHub"
+      ],
+      "Intermediate": [
+        "Learn React or Vue.js",
+        "Understand Webpack and state management",
+        "Use APIs and handle data"
+      ],
+      "Advanced": [
+        "SSR and performance optimization",
+        "Build scalable UIs",
+        "Testing and CI/CD"
+      ]
+    }
+  },
+  {
+    "job_role": "Backend Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Node.js or Python basics",
+        "Understand RESTful APIs",
+        "Basic database concepts (SQL/NoSQL)"
+      ],
+      "Intermediate": [
+        "Master Express.js or Django",
+        "Authentication and authorization",
+        "Build scalable APIs"
+      ],
+      "Advanced": [
+        "Microservices architecture",
+        "Caching and performance tuning",
+        "CI/CD and deployment strategies"
+      ]
+    }
+  },
+  {
+    "job_role": "Full Stack Developer",
+    "roadmap": {
+      "Beginner": [
+        "HTML, CSS, JavaScript basics",
+        "Learn a frontend framework (React/Vue)",
+        "Basic backend with Node.js or Python"
+      ],
+      "Intermediate": [
+        "Database integration (SQL/NoSQL)",
+        "State management and API integration",
+        "Authentication and security"
+      ],
+      "Advanced": [
+        "DevOps basics (Docker, CI/CD)",
+        "Performance optimization",
+        "Build full-stack applications"
+      ]
+    }
+  },
+  {
+    "job_role": "DevOps Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Linux basics",
+        "Understand version control (Git)",
+        "Intro to CI/CD concepts"
+      ],
+      "Intermediate": [
+        "Master Docker and container orchestration",
+        "Learn cloud platforms (AWS/Azure/GCP)",
+        "Infrastructure as Code (Terraform)"
+      ],
+      "Advanced": [
+        "Monitoring and logging",
+        "Security best practices",
+        "Automate deployment pipelines"
+      ]
+    }
+  },
+  {
+    "job_role": "Mobile App Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Java/Kotlin for Android or Swift for iOS",
+        "Understand mobile UI/UX principles",
+        "Basic app development with Android Studio/Xcode"
+      ],
+      "Intermediate": [
+        "Master React Native or Flutter",
+        "APIs and data storage",
+        "Testing and debugging"
+      ],
+      "Advanced": [
+        "App performance optimization",
+        "Deployment to app stores",
+        "Advanced features (push notifications, in-app purchases)"
+      ]
+    }
+  },
+  {
+    "job_role": "Data Analyst",
+    "roadmap": {
+      "Beginner": [
+        "Learn Excel and basic SQL",
+        "Understand data visualization principles",
+        "Intro to Python for data analysis"
+      ],
+      "Intermediate": [
+        "Master pandas and matplotlib",
+        "Advanced SQL queries",
+        "Build dashboards with Tableau/Power BI"
+      ],
+      "Advanced": [
+        "Statistical analysis and hypothesis testing",
+        "Data storytelling techniques",
+        "Automate reporting processes"
+      ]
+    }
+  },
+  {
+    "job_role": "Business Analyst",
+    "roadmap": {
+      "Beginner": [
+        "Learn SQL and Excel basics",
+        "Understand business processes",
+        "Intro to data visualization"
+      ],
+      "Intermediate": [
+        "Master requirement gathering techniques",
+        "Use tools like JIRA or Trello",
+        "Data analysis for business insights"
+      ],
+      "Advanced": [
+        "Stakeholder management",
+        "Agile methodologies",
+        "Strategic planning and roadmapping"
+      ]
+    }
+  },
+  {
+    "job_role": "Data Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn SQL and Python basics",
+        "Understand ETL concepts",
+        "Intro to big data technologies"
+      ],
+      "Intermediate": [
+        "Master Apache Spark or Hadoop",
+        "Build data pipelines with Airflow",
+        "Data warehousing concepts"
+      ],
+      "Advanced": [
+        "Real-time data processing",
+        "Cloud data engineering (AWS/GCP/Azure)",
+        "Data architecture design"
+      ]
+    }
+  },
+  {
+    "job_role": "BI Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn SQL and basic data visualization",
+        "Understand BI concepts and tools",
+        "Intro to Power BI or Tableau"
+      ],
+      "Intermediate": [
+        "Master DAX and advanced visualizations",
+        "Data modeling techniques",
+        "Build interactive dashboards"
+      ],
+      "Advanced": [
+        "Performance tuning in BI tools",
+        "Integrate with other data sources",
+        "Automate reporting processes"
+      ]
+    }
+  },
+  {
+    "job_role": "Data Architect",
+    "roadmap": {
+      "Beginner": [
+        "Learn database design principles",
+        "Understand SQL and NoSQL databases",
+        "Intro to data modeling"
+      ],
+      "Intermediate": [
+        "Master cloud databases (AWS RDS, GCP BigQuery)",
+        "Data governance and security best practices",
+        "Build scalable data architectures"
+      ],
+      "Advanced": [
+        "Real-time data architecture design",
+        "Big data technologies (Hadoop, Spark)",
+        "Data integration strategies"
+      ]
+    }
+  },
+  {
+    "job_role": "UI/UX Designer",
+    "roadmap": {
+      "Beginner": [
+        "Learn design principles and tools (Figma, Adobe XD)",
+        "Understand user research methods",
+        "Intro to wireframing and prototyping"
+      ],
+      "Intermediate": [
+        "Master interaction design",
+        "Usability testing techniques",
+        "Design systems and style guides"
+      ],
+      "Advanced": [
+        "Advanced prototyping techniques",
+        "Collaboration with developers",
+        "Design for accessibility"
+      ]
+    }
+  },
+  {
+    "job_role": "Product Manager",
+    "roadmap": {
+      "Beginner": [
+        "Learn product management basics",
+        "Understand user stories and requirements",
+        "Intro to Agile methodologies"
+      ],
+      "Intermediate": [
+        "Master roadmapping techniques",
+        "Data analysis for product decisions",
+        "Stakeholder management"
+      ],
+      "Advanced": [
+        "Strategic planning and vision setting",
+        "Market research and competitive analysis",
+        "Leadership and team management"
+      ]
+    }
+  },
+  {
+    "job_role": "Technical Writer",
+    "roadmap": {
+      "Beginner": [
+        "Learn documentation best practices",
+        "Understand Markdown and basic HTML",
+        "Intro to technical writing tools (Confluence, GitHub)"
+      ],
+      "Intermediate": [
+        "Master API documentation techniques",
+        "User guides and manuals writing",
+        "Content management systems"
+      ],
+      "Advanced": [
+        "Advanced technical writing skills",
+        "Collaboration with developers and designers",
+        "Documentation strategy development"
+      ]
+    }
+  },
+  {
+    "job_role": "Web Designer",
+    "roadmap": {
+      "Beginner": [
+        "Learn HTML, CSS, and basic JavaScript",
+        "Understand responsive design principles",
+        "Intro to SEO basics"
+      ],
+      "Intermediate": [
+        "Master CSS frameworks (Bootstrap, Tailwind)",
+        "Web accessibility standards (WCAG)",
+        "Basic graphic design skills"
+      ],
+      "Advanced": [
+        "Performance optimization techniques",
+        "Cross-browser compatibility testing",
+        "Web design trends and innovations"
+      ]
+    }
+  },
+  {
+    "job_role": "Cybersecurity Analyst",
+    "roadmap": {
+      "Beginner": [
+        "Learn network security basics",
+        "Understand common vulnerabilities",
+        "Intro to cybersecurity tools (Wireshark, Nmap)"
+      ],
+      "Intermediate": [
+        "Master threat detection techniques",
+        "Incident response and management",
+        "Security policies and compliance"
+      ],
+      "Advanced": [
+        "Penetration testing skills",
+        "Advanced threat hunting",
+        "Security architecture design"
+      ]
+    }
+  },
+  {
+    "job_role": "Blockchain Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn blockchain fundamentals",
+        "Understand smart contracts basics",
+        "Intro to Ethereum and Solidity"
+      ],
+      "Intermediate": [
+        "Master DApp development",
+        "Explore other blockchain platforms (Hyperledger, Polkadot)",
+        "Security best practices in blockchain"
+      ],
+      "Advanced": [
+        "Scalability solutions (Layer 2, sharding)",
+        "Blockchain architecture design",
+        "Decentralized finance (DeFi) applications"
+      ]
+    }
+  },
+  {
+    "job_role": "Game Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn C# or C++ basics",
+        "Understand game development concepts",
+        "Intro to Unity or Unreal Engine"
+      ],
+      "Intermediate": [
+        "Master game physics and AI",
+        "3D modeling and animation basics",
+        "Build simple games"
+      ],
+      "Advanced": [
+        "Multiplayer game development",
+        "Performance optimization techniques",
+        "Game monetization strategies"
+      ]
+    }
+  },
+  {
+    "job_role": "AR/VR Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Unity or Unreal Engine basics",
+        "Understand AR/VR concepts",
+        "Intro to 3D modeling"
+      ],
+      "Intermediate": [
+        "Master ARKit or ARCore for mobile AR",
+        "VR interaction design principles",
+        "Build simple AR/VR applications"
+      ],
+      "Advanced": [
+        "Advanced 3D graphics programming",
+        "Performance optimization for AR/VR",
+        "Deploying AR/VR applications"
+      ]
+    }
+  },
+  {
+    "job_role": "Prompt Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn NLP basics and Python",
+        "Understand large language models (LLMs)",
+        "Intro to prompt engineering concepts"
+      ],
+      "Intermediate": [
+        "Master prompt tuning techniques",
+        "Data generation for training LLMs",
+        "Explore few-shot learning methods"
+      ],
+      "Advanced": [
+        "Advanced NLP techniques (transformers, attention mechanisms)",
+        "Model evaluation and fine-tuning",
+        "Ethical considerations in AI"
+      ]
+    }
+  },
+  {
+    "job_role": "QA Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn manual testing basics",
+        "Understand test case design",
+        "Intro to automation testing tools (Selenium)"
+      ],
+      "Intermediate": [
+        "Master API testing techniques",
+        "Continuous integration and delivery (CI/CD)",
+        "Performance testing tools"
+      ],
+      "Advanced": [
+        "Test automation frameworks design",
+        "Security testing skills",
+        "Agile testing methodologies"
+      ]
+    }
+  },
+  {
+    "job_role": "Cloud Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn cloud computing fundamentals",
+        "Understand AWS/Azure/GCP basics",
+        "Intro to cloud services (compute, storage, networking)"
+      ],
+      "Intermediate": [
+        "Master cloud architecture design",
+        "Deployment and management of cloud resources",
+        "Security best practices in the cloud"
+      ],
+      "Advanced": [
+        "Serverless architecture design",
+        "Multi-cloud strategies",
+        "Cost optimization techniques"
+      ]
+    }
+  },
+  {
+    "job_role": "AI Researcher",
+    "roadmap": {
+      "Beginner": [
+        "Learn Python and basic machine learning",
+        "Understand AI research methodologies",
+        "Intro to data preprocessing"
+      ],
+      "Intermediate": [
+        "Master deep learning frameworks (TensorFlow/PyTorch)",
+        "Explore reinforcement learning",
+        "Conduct literature reviews"
+      ],
+      "Advanced": [
+        "Publish research papers",
+        "Collaborate on open-source AI projects",
+        "Advanced topics (GANs, transfer learning)"
+      ]
+    }
+  },
+  {
+    "job_role": "IoT Developer",
+    "roadmap": {
+      "Beginner": [
+        "Learn basic electronics and microcontrollers (Arduino/Raspberry Pi)",
+        "Understand IoT protocols (MQTT, CoAP)",
+        "Intro to IoT platforms (AWS IoT, Azure IoT)"
+      ],
+      "Intermediate": [
+        "Master sensor integration and data collection",
+        "Build IoT applications with cloud connectivity",
+        "Security best practices in IoT"
+      ],
+      "Advanced": [
+        "Edge computing concepts",
+        "IoT data analytics",
+        "Scalability solutions for IoT systems"
+      ]
+    }
+  },
+  {
+    "job_role": "Network Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn networking fundamentals (TCP/IP, OSI model)",
+        "Understand routing and switching concepts",
+        "Intro to network security basics"
+      ],
+      "Intermediate": [
+        "Master network configuration and management",
+        "Explore advanced routing protocols (BGP, OSPF)",
+        "Network monitoring and troubleshooting"
+      ],
+      "Advanced": [
+        "Designing complex networks",
+        "Network automation techniques",
+        "Cloud networking concepts"
+      ]
+    }
+  },
+  {
+    "job_role": "Systems Administrator",
+    "roadmap": {
+      "Beginner": [
+        "Learn Linux/Windows server basics",
+        "Understand system monitoring tools",
+        "Intro to scripting (Bash, PowerShell)"
+      ],
+      "Intermediate": [
+        "Master system configuration and management",
+        "Network services (DNS, DHCP, VPN)",
+        "Backup and recovery strategies"
+      ],
+      "Advanced": [
+        "Performance tuning and optimization",
+        "Security hardening techniques",
+        "Cloud systems administration"
+      ]
+    }
+  },
+  {
+    "job_role": "SEO Specialist",
+    "roadmap": {
+      "Beginner": [
+        "Learn SEO fundamentals",
+        "Understand keyword research techniques",
+        "Intro to on-page SEO"
+      ],
+      "Intermediate": [
+        "Master technical SEO (site speed, mobile optimization)",
+        "Link building strategies",
+        "Content optimization techniques"
+      ],
+      "Advanced": [
+        "SEO analytics and reporting",
+        "Local SEO strategies",
+        "Algorithm updates and their impact"
+      ]
+    }
+  },
+  {
+    "job_role": "Digital Marketing Specialist",
+    "roadmap": {
+      "Beginner": [
+        "Learn digital marketing basics",
+        "Understand social media platforms",
+        "Intro to content marketing"
+      ],
+      "Intermediate": [
+        "Master email marketing strategies",
+        "SEO and SEM techniques",
+        "Data analytics for marketing"
+      ],
+      "Advanced": [
+        "Marketing automation tools",
+        "Advanced analytics and reporting",
+        "Brand management strategies"
+      ]
+    }
+  },
+  {
+    "job_role": "Content Writer",
+    "roadmap": {
+      "Beginner": [
+        "Learn basic writing skills",
+        "Understand content types (blogs, articles, social media)",
+        "Intro to SEO writing"
+      ],
+      "Intermediate": [
+        "Master storytelling techniques",
+        "Content strategy development",
+        "Editing and proofreading skills"
+      ],
+      "Advanced": [
+        "Content marketing strategies",
+        "Analytics and performance tracking",
+        "Building a personal brand as a writer"
+      ]
+    }
+  },
+  {
+    "job_role": "Graphic Designer",
+    "roadmap": {
+      "Beginner": [
+        "Learn design principles (color theory, typography)",
+        "Understand graphic design software (Adobe Photoshop, Illustrator)",
+        "Intro to logo and branding design"
+      ],
+      "Intermediate": [
+        "Master advanced design techniques",
+        "Create marketing materials (brochures, flyers)",
+        "Web and mobile design basics"
+      ],
+      "Advanced": [
+        "UI/UX design principles",
+        "Motion graphics and animation",
+        "Portfolio development and freelancing"
+      ]
+    }
+  },
+  {
+    "job_role": "Video Editor",
+    "roadmap": {
+      "Beginner": [
+        "Learn video editing software (Adobe Premiere Pro, Final Cut Pro)",
+        "Understand basic video editing techniques",
+        "Intro to color correction and audio editing"
+      ],
+      "Intermediate": [
+        "Master advanced editing techniques (transitions, effects)",
+        "Storytelling through video",
+        "Create promotional videos"
+      ],
+      "Advanced": [
+        "Motion graphics and animation",
+        "Video production for different platforms",
+        "Building a portfolio and freelancing"
+      ]
+    }
+  },
+  {
+    "job_role": "Cloud Solutions Architect",
+    "roadmap": {
+      "Beginner": [
+        "Learn cloud computing fundamentals",
+        "Understand AWS/Azure/GCP basics",
+        "Intro to cloud architecture design"
+      ],
+      "Intermediate": [
+        "Master cloud services (compute, storage, networking)",
+        "Security best practices in the cloud",
+        "Cost optimization techniques"
+      ],
+      "Advanced": [
+        "Serverless architecture design",
+        "Multi-cloud strategies",
+        "Disaster recovery planning"
+      ]
+    }
+  },
+  {
+    "job_role": "AI Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Python and basic machine learning",
+        "Understand AI concepts and algorithms",
+        "Intro to data preprocessing"
+      ],
+      "Intermediate": [
+        "Master deep learning frameworks (TensorFlow/PyTorch)",
+        "Explore NLP and computer vision",
+        "Build AI applications"
+      ],
+      "Advanced": [
+        "Model deployment and scaling",
+        "Ethical considerations in AI",
+        "Advanced topics (reinforcement learning, GANs)"
+      ]
+    }
+  },
+  {
+    "job_role": "Machine Learning Engineer",
+    "roadmap": {
+      "Beginner": [
+        "Learn Python and basic machine learning",
+        "Understand data preprocessing techniques",
+        "Intro to machine learning algorithms"
+      ],
+      "Intermediate": [
+        "Master scikit-learn and TensorFlow/PyTorch",
+        "Model evaluation and tuning",
+        "Build machine learning pipelines"
+      ],
+      "Advanced": [
+        "Deploying models in production",
+        "Scalability and performance optimization",
+        "Advanced topics (deep learning, NLP)"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1175 @@
+[
+  {
+    "skill": "python",
+    "courses": [
+      {
+        "course": "Python for Everybody",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "course": "Complete Python Bootcamp",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/complete-python-bootcamp/"
+      }
+    ]
+  },
+  {
+    "skill": "sql",
+    "courses": [
+      {
+        "course": "SQL for Data Science",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/sql-for-data-science"
+      },
+      {
+        "course": "SQL Bootcamp",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "skill": "java",
+    "courses": [
+      {
+        "course": "Java Programming and Software Engineering Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/java-programming"
+      },
+      {
+        "course": "Java Programming Masterclass for Software Developers",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      }
+    ]
+  },
+  {
+    "skill": "c++",
+    "courses": [
+      {
+        "course": "C++ For C Programmers, Part A",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/c-plus-plus-a"
+      },
+      {
+        "course": "Beginning C++ Programming - From Beginner to Beyond",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/"
+      }
+    ]
+  },
+  {
+    "skill": "c#",
+    "courses": [
+      {
+        "course": ".NET Core Microservices - The Complete Guide (.NET 6)",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/net-core-microservices-the-complete-guide/"
+      },
+      {
+        "course": ".NET Framework: C# Fundamentals for Absolute Beginners",
+        "provider": "Microsoft Learn",
+        "link":" https://docs.microsoft.com/en-us/learn/paths/csharp-fundamentals/"
+      }
+    ]
+  },
+  {
+    "skill": "machine learning",
+    "courses": [
+      {
+        "course": "Machine Learning by Andrew Ng",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "course": "Python for Machine Learning & Data Science",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/machinelearning/"
+      }
+    ]
+  },
+  {
+    "skill": "react",
+    "courses": [
+      {
+        "course": "React – The Complete Guide",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+      },
+      {
+        "course": "Front-End Web Development with React",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/front-end-react"
+      }
+    ]
+  },
+  {
+    "skill": "html",
+    "courses": [
+      {
+        "course": "HTML, CSS, and Javascript for Web Developers",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
+      },
+      {
+        "course": "Responsive Web Design",
+        "provider": "freeCodeCamp",
+        "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+      }
+    ]
+  },
+  {
+    "skill": "javascript",
+    "courses": [
+      {
+        "course": "JavaScript Basics",
+        "provider": "Codecademy",
+        "link": "https://www.codecademy.com/learn/introduction-to-javascript"
+      },
+      {
+        "course": "JavaScript - The Complete Guide",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/"
+      }
+    ]
+  },
+  {
+    "skill": "data structures",
+    "courses": [
+      {
+        "course": "Data Structures and Algorithms",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/data-structures-algorithms"
+      },
+      {
+        "course": "Master the Coding Interview: Data Structures + Algorithms",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"
+      }
+    ]
+  },
+  {
+    "skill": "cloud",
+    "courses": [
+      {
+        "course": "Google Cloud Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals"
+      },
+      {
+        "course": "AWS Certified Cloud Practitioner",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner/"
+      }
+    ]
+  },
+  {
+    "skill": "devops",
+    "courses": [
+      {
+        "course": "DevOps on AWS",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/devops-on-aws"
+      },
+      {
+        "course": "DevOps Projects with Jenkins, Docker, Kubernetes",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/devops-projects/"
+      }
+    ]
+  },
+  {
+    "skill": "excel",
+    "courses": [
+      {
+        "course": "Excel Skills for Business",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/excel"
+      },
+      {
+        "course": "Microsoft Excel - Excel from Beginner to Advanced",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
+      }
+    ]
+  },
+  {
+    "skill": "nlp",
+    "courses": [
+      {
+        "course": "Natural Language Processing Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/natural-language-processing"
+      },
+      {
+        "course": "NLP with Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/nlp-natural-language-processing-with-python/"
+      }
+    ]
+  },
+  {
+    "skill": "computer vision",
+    "courses": [
+      {
+        "course": "Computer Vision Basics",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/computer-vision-basics"
+      },
+      {
+        "course": "Deep Learning for Computer Vision with Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/deep-learning-computer-vision-with-python/"
+      }
+    ]
+  },
+  {
+    "skill": "git",
+    "courses": [
+      {
+        "course": "Version Control with Git",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/version-control-with-git"
+      },
+      {
+        "course": "Git & GitHub Crash Course: Create a Repository From Scratch!",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/git-and-github-crash-course/"
+      }
+    ]
+  },
+  {
+    "skill": "agile",
+    "courses": [
+      {
+        "course": "Agile Development Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/agile-development"
+      },
+      {
+        "course": "Agile Crash Course: Agile Project Management; Agile Delivery",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/agile-crash-course/"
+      }
+    ]
+  },
+  {
+    "skill": "scrum",
+    "courses": [
+      {
+        "course": "Scrum Fundamentals Certified (SFC)",
+        "provider": "Scrum.org",
+        "link": "https://www.scrum.org/professional-development/courses/scrum-fundamentals-certified-sfc"
+      },
+      {
+        "course": "Scrum Master Certification: Scrum Methodology",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/scrum-master-certification-scrum-methodology/"
+      }
+    ]
+  },
+  {
+    "skill": "aws",
+    "courses": [
+      {
+        "course": "AWS Cloud Practitioner Essentials",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      },
+      {
+        "course": "AWS Certified Solutions Architect – Associate 2020",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/"
+      }
+    ]
+  },
+  {
+    "skill": "azure",
+    "courses": [
+      {
+        "course": "Azure Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/azure-fundamentals"
+      },
+      {
+        "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/microsoft-azure-fundamentals-az-900/"
+      }
+    ]
+  },
+  {
+    "skill": "gcp",
+    "courses": [
+      {
+        "course": "Google Cloud Platform Fundamentals: Core Infrastructure",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals"
+      },
+      {
+        "course": "Google Cloud Platform (GCP) - For Techs & Non-Techs",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/google-cloud-platform-gcp-for-techs-non-techs/"
+      }
+    ]
+  },
+
+  {
+    "skill": "docker",
+    "courses": [
+      {
+        "course": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "course": "Docker for Data Science",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/docker-for-data-science"
+      }
+    ]
+  },
+  {
+    "skill": "kubernetes",
+    "courses": [
+      {
+        "course": "Kubernetes Basics",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/kubernetes-basics"
+      },
+      {
+        "course": "Learn Kubernetes: Fundamentals of Kubernetes",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes-fundamentals-of-kubernetes/"
+      }
+    ]
+  },
+  {
+    "skill": "big data",
+    "courses": [
+      {
+        "course": "Big Data Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/big-data"
+      },
+      {
+        "course": "The Ultimate Hands-On Hadoop – Tame your Big Data!",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+      }
+    ]
+  },
+  {
+    "skill": "data visualization",
+    "courses": [
+      {
+        "course": "Data Visualization with Tableau",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/data-visualization-tableau"
+      },
+      {
+        "course": "Python for Data Visualization",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/python-for-data-visualization/"
+      }
+    ]
+  },
+  {
+    "skill": "power bi",
+    "courses": [
+      {
+        "course": "Getting Started with Power BI",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/getting-started-with-power-bi"
+      },
+      {
+        "course": "Microsoft Power BI - A Complete Introduction",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/microsoft-power-bi-data-analysis/"
+      }
+    ]
+  },
+  {
+    "skill": "figma",
+    "courses": [
+      {
+        "course": "Figma for UI/UX Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/figma-ui-ux-design"
+      },
+      {
+        "course": "Figma Masterclass: Learn Figma in 2021",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/figma-masterclass-learn-figma-in-2021/"
+      }
+    ]
+  },
+  {
+    "skill": "adobe xd",
+    "courses": [
+      {
+        "course": "Adobe XD Essential Training",
+        "provider": "LinkedIn Learning",
+        "link": "https://www.linkedin.com/learning/adobe-xd-essential-training-2020"
+      },
+      {
+        "course": "Adobe XD Masterclass: Learn Adobe XD in 2021",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/adobe-xd-masterclass-learn-adobe-xd-in-2021/"
+      }
+    ]
+  },
+  {
+    "skill": "ui design",
+    "courses": [
+      {
+        "course": "UI Design Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/ui-design"
+      },
+      {
+        "course": "The Complete App Design Course - UX, UI and Design Thinking",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-app-design-course-ux-ui-and-design-thinking/"
+      }
+    ]
+  },
+  {
+    "skill": "ux design",
+    "courses": [
+      {
+        "course": "User Experience Research and Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/user-experience-research-design"
+      },
+      {
+        "course": "The Complete UX Design Bootcamp",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-ux-design-bootcamp/"
+      }
+    ]
+  },
+  {
+    "skill": "ux writing",
+    "courses": [
+      {
+        "course": "UX Writing Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/ux-writing-fundamentals"
+      },
+      {
+        "course": "UX Writing: How to Write for the Web",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/ux-writing-how-to-write-for-the-web/"
+      }
+    ]
+  },
+  {
+    "skill": "user interface design",
+    "courses": [
+      {
+        "course": "User Interface Design Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/user-interface-design"
+      },
+      {
+        "course": "The Complete UI/UX Design Bootcamp",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-ui-ux-design-bootcamp/"
+      }
+    ]
+  },
+  {
+    "skill": "user experience design",
+    "courses": [
+      {
+        "course": "User Experience Design Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/user-experience-design-fundamentals"
+      },
+      {
+        "course": "The Complete User Experience Design Course",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-user-experience-design-course/"
+      }
+    ]
+  },
+  {
+    "skill": "interaction design",
+    "courses": [
+      {
+        "course": "Interaction Design Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/interaction-design"
+      },
+      {
+        "course": "The Complete Interaction Design Course",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-interaction-design-course/"
+      }
+    ]
+  },
+  {
+    "skill": "usability testing",
+    "courses": [
+      {
+        "course": "Usability Testing Essentials",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/usability-testing-essentials"
+      },
+      {
+        "course": "Usability Testing for Beginners",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/usability-testing-for-beginners/"
+      }
+    ]
+  },
+  {
+    "skill": "user interface prototyping",
+    "courses": [
+      {
+        "course": "Prototyping User Interfaces",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/prototyping-user-interfaces"
+      },
+      {
+        "course": "Prototyping with Figma",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/prototyping-with-figma/"
+      }
+    ]
+  },
+  {
+    "skill": "user experience research",
+    "courses": [
+      {
+        "course": "User Experience Research and Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/user-experience-research-design"
+      },
+      {
+        "course": "User Experience Research Fundamentals",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/user-experience-research-fundamentals/"
+      }
+    ]
+  },
+  {
+    "skill": "wireframing",
+    "courses": [
+      {
+        "course": "Wireframing for UX Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/wireframing-for-ux-design"
+      },
+      {
+        "course": "Wireframing with Balsamiq",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/wireframing-with-balsamiq/"
+      }
+    ]
+  },
+  {
+    "skill": "prototyping",
+    "courses": [
+      {
+        "course": "Prototyping for UX Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/prototyping-for-ux-design"
+      },
+      {
+        "course": "Prototyping with Adobe XD",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/prototyping-with-adobe-xd/"
+      }
+    ]
+  },
+  {
+    "skill": "user research",
+    "courses": [
+      {
+        "course": "User Research – Methods and Best Practices",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/user-research-methods"
+      },
+      {
+        "course": "User Research Fundamentals",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/user-research-fundamentals/"
+      }
+    ]
+  },
+  {
+    "skill": "design systems",
+    "courses": [
+      {
+        "course": "Design Systems with Figma",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/design-systems-figma"
+      },
+      {
+        "course": "Design Systems for Developers",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/design-systems-for-developers/"
+      }
+    ]
+  },
+  {
+    "skill": "data modeling",
+    "courses": [
+      {
+        "course": "Data Modeling for Relational Databases",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-modeling-relational-databases"
+      },
+      {
+        "course": "Data Modeling Masterclass",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/data-modeling-masterclass/"
+      }
+    ]
+  },
+  {
+    "skill": "nosql",
+    "courses": [
+      {
+        "course": "NoSQL Database Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/nosql-database-design"
+      },
+      {
+        "course": "MongoDB - The Complete Developer's Guide 2021",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
+      }
+    ]
+  },
+  {
+    "skill": "architecture design",
+    "courses": [
+      {
+        "course": "Software Architecture for Developers",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/software-architecture-for-developers"
+      },
+      {
+        "course": "Software Architecture Masterclass",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/software-architecture-masterclass/"
+      }
+    ]
+  },
+  {
+    "skill": "business intelligence",
+    "courses": [
+      {
+        "course": "Business Intelligence Concepts, Tools, and Applications",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/business-intelligence-concepts-tools-applications"
+      },
+      {
+        "course": "Microsoft Power BI - A Complete Introduction",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/microsoft-power-bi-data-analysis/"
+      }
+    ]
+  },
+  {
+    "skill": "reporting",
+    "courses": [
+      {
+        "course": "Data Reporting and Visualization with Power BI",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-reporting-visualization-power-bi"
+      },
+      {
+        "course": "Power BI Reporting Masterclass",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/power-bi-reporting-masterclass/"
+      }
+    ]
+  },
+  {
+    "skill": "etl",
+    "courses": [
+      {
+        "course": "ETL and Data Warehousing with Google Cloud",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/etl-data-warehousing-google-cloud"
+      },
+      {
+        "course": "ETL Testing with Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/etl-testing-with-python/"
+      }
+    ]
+  },
+  {
+    "skill": "spark",
+    "courses": [
+      {
+        "course": "Big Data Analysis with Spark",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/big-data-analysis-spark"
+      },
+      {
+        "course": "Apache Spark with Scala - Hands On with Big Data!",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/"
+      }
+    ]
+  },
+  {
+    "skill": "airflow",
+    "courses": [
+      {
+        "course": "Data Pipelines with Apache Airflow",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-pipelines-apache-airflow"
+      },
+      {
+        "course": "Apache Airflow: The Hands-On Guide",
+        "provider": "Udemy",
+        "link":" https://www.udemy.com/course/apache-airflow-the-hands-on-guide/"
+      }
+    ]
+  },
+  {
+    "skill": "data pipelines",
+    "courses": [
+      {
+        "course": "Building Data Pipelines with Python",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/building-data-pipelines-with-python"
+      },
+      {
+        "course": "Data Engineering with Google Cloud",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/data-engineering-with-google-cloud/"
+      }
+    ]
+  },
+  {
+    "skill": "data cleaning",
+    "courses": [
+      {
+        "course": "Data Cleaning with Python",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-cleaning-python"
+      },
+      {
+        "course": "Data Cleaning in Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/data-cleaning-in-python/"
+      }
+    ]
+  },
+  {
+    "skill": "data analysis",
+    "courses": [
+      {
+        "course": "Data Analysis with Python",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-analysis-with-python"
+      },
+      {
+        "course": "Python for Data Analysis",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/python-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "skill": "statistics",
+    "courses": [
+      {
+        "course": "Statistics with Python Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/statistics-with-python"
+      },
+      {
+        "course": "Statistics for Data Science and Business Analysis",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/"
+      }
+    ]
+  },
+  {
+    "skill": "pandas",
+    "courses": [
+      {
+        "course": "Data Analysis with Pandas and Python",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-analysis-with-pandas"
+      },
+      {
+        "course": "Pandas Data Science Masterclass",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/pandas-data-science-masterclass/"
+      }
+    ]
+  },
+  {
+    "skill": "numpy",
+    "courses": [
+      {
+        "course": "Introduction to NumPy",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/introduction-to-numpy"
+      },
+      {
+        "course": "NumPy for Data Science in Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-science-in-python/"
+      }
+    ]
+  },
+  {
+    "skill": "matplotlib",
+    "courses": [
+      {
+        "course": "Data Visualization with Matplotlib",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/data-visualization-matplotlib"
+      },
+      {
+        "course": "Python Data Visualization with Matplotlib and Pandas",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/python-data-visualization-with-matplotlib-and-pandas/"
+      }
+    ]
+  },
+  {
+    "skill": "tensorflow",
+    "courses": [
+      {
+        "course": "Introduction to TensorFlow for Artificial Intelligence",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/introduction-tensorflow"
+      },
+      {
+        "course": "Deep Learning with TensorFlow 2.0",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/deep-learning-with-tensorflow-2/"
+      }
+    ]
+  },
+  {
+    "skill": "pytorch",
+    "courses": [
+      {
+        "course": "Introduction to PyTorch for Deep Learning",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/pytorch-for-deep-learning"
+      },
+      {
+        "course": "PyTorch for Deep Learning and Computer Vision",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/"
+      }
+    ]
+  },
+  {
+    "skill": "deep learning",
+    "courses": [
+      {
+        "course": "Deep Learning Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "course": "Deep Learning A-Z™: Hands-On Artificial Neural Networks",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/deeplearning/"
+      }
+    ]
+  },
+  {
+    "skill": "model deployment",
+    "courses": [
+      {
+        "course": "Machine Learning Model Deployment with Flask",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning-model-deployment-flask"
+      },
+      {
+        "course": "Deploying Machine Learning Models",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/deploying-machine-learning-models/"
+      }
+    ]
+  },
+  {
+    "skill": "mlops",
+    "courses": [
+      {
+        "course": "MLOps (Machine Learning Operations) Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/mlops-fundamentals"
+      },
+      {
+        "course": "MLOps: Deploying Machine Learning Models in Production",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/mlops-deploying-machine-learning-models-in-production/"
+      }
+    ]
+  },
+  {
+    "skill": "nltk",
+    "courses": [
+      {
+        "course": "Natural Language Processing with NLTK",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/natural-language-processing-with-nltk"
+      },
+      {
+        "course": "Natural Language Processing with Python and NLTK",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/natural-language-processing-with-python-and-nltk/"
+      }
+    ]
+  },
+  {
+    "skill": "transformers",
+    "courses": [
+      {
+        "course": "Transformers for Natural Language Processing",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/transformers-for-natural-language-processing"
+      },
+      {
+        "course": "Transformers for Natural Language Processing with Python",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/transformers-for-natural-language-processing-with-python/"
+      }
+    ]
+  },
+  {
+    "skill": "computer vision frameworks",
+    "courses": [
+      {
+        "course": "Deep Learning for Computer Vision with TensorFlow",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/deep-learning-computer-vision-tensorflow"
+      },
+      {
+        "course": "Computer Vision with PyTorch",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/computer-vision-with-pytorch/"
+      }
+    ]
+  } ,
+
+  {
+    "skill": "digital marketing",
+    "courses": [
+      {
+        "course": "Digital Marketing Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/digital-marketing"
+      },
+      {
+        "course": "The Complete Digital Marketing Course",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/learn-digital-marketing-course/"
+      }
+    ]
+  },
+  {
+    "skill": "communication skills",
+    "courses": [
+      {
+        "course": "Effective Communication Skills",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/effective-communication-skills"
+      },
+      {
+        "course": "Communication Skills for Professionals",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/communication-skills-for-professionals/"
+      }
+    ]
+  },
+  {
+    "skill": "problem solving",
+    "courses": [
+      {
+        "course": "Problem Solving with Python",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/problem-solving-with-python"
+      },
+      {
+        "course": "Problem Solving Skills for University Success",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/problem-solving-skills-for-university-success/"
+      }
+    ]
+  },
+  {
+    "skill": "critical thinking",
+    "courses": [
+      {
+        "course": "Critical Thinking Skills for University Success",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/critical-thinking-skills-for-university-success"
+      },
+      {
+        "course": "Critical Thinking: How to Find and Use Information Wisely",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/critical-thinking-how-to-find-and-use-information-wisely/"
+      }
+    ]
+  },
+  {
+    "skill": "time management",
+    "courses": [
+      {
+        "course": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/work-smarter-not-harder"
+      },
+      {
+        "course": "Time Management Fundamentals",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/time-management-fundamentals/"
+      }
+    ]
+  },
+  {
+    "skill": "teamwork",
+    "courses": [
+      {
+        "course": "Teamwork Skills: Communicating Effectively in Groups",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/teamwork-skills-communicating-effectively-in-groups"
+      },
+      {
+        "course": "Teamwork Skills for Professionals",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/teamwork-skills-for-professionals/"
+      }
+    ]
+  },
+  {
+    "skill": "leadership",
+    "courses": [
+      {
+        "course": "Leadership in 21st Century Organizations",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/leadership-in-21st-century-organizations"
+      },
+      {
+        "course": "Leadership Skills for Managers",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/leadership-skills-for-managers/"
+      }
+    ]
+  },
+  {
+    "skill": "agile methodologies",
+    "courses": [
+      {
+        "course": "Agile Meets Design Thinking",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/agile-meets-design-thinking"
+      },
+      {
+        "course": "Agile Project Management",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/agile-project-management/"
+      }
+    ]
+  },
+  {
+    "skill": "scrum",
+    "courses": [
+      {
+  "course": "Scrum Master Certification: Scrum Methodology",
+  "provider": "Udemy",
+  "link": "https://www.udemy.com/course/scrum-master-certification-scrum-methodology/"
+},
+      {
+        "course": "Scrum Fundamentals Certified (SFC)",
+        "provider": "Scrum.org",
+        "link": "https://www.scrum.org/professional-development/courses/scrum-fundamentals-certified-sfc"
+      }
+    ]
+  },
+  {
+    "skill": "kanban",
+    "courses": [
+      {
+        "course": "Kanban Fundamentals",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/kanban-fundamentals"
+      },
+      {
+        "course": "Kanban: Successful Evolutionary Change for Your Technology Business",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/kanban-successful-evolutionary-change-for-your-technology-business/"
+      }
+    ]
+  },
+  {
+    "skill": "lean",
+    "courses": [
+      {
+        "course": "Lean Six Sigma Green Belt Certification",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/lean-six-sigma-green-belt"
+      },
+      {
+        "course": "Lean Management: Reduce Waste and Boost Efficiency",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/lean-management-reduce-waste-and-boost-efficiency/"
+      }
+    ]
+  },
+  {
+    "skill": "design thinking",
+    "courses": [
+      {
+        "course": "Design Thinking for Innovation",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/learn/design-thinking-for-innovation"
+      },
+      {
+        "course": "Design Thinking: The Beginner's Guide",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/design-thinking-the-beginners-guide/"
+      }
+    ]
+  },
+  {
+    "skill": "user experience (ux) design",
+    "courses": [
+      {
+        "course": "User Experience Research and Design",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/user-experience-research-design"
+      },
+      {
+        "course": "The Complete App Design Course - UX, UI and Design Thinking",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-app-design-course-ux-ui-and-design-thinking/"
+      }
+    ]
+  },
+  {
+    "skill": "user interface (ui) design",
+    "courses": [
+      {
+        "course": "UI / UX Design Specialization",
+        "provider": "Coursera",
+        "link": "https://www.coursera.org/specializations/ui-ux-design"
+      },
+      {
+        "course": "The Complete Web Design Course - Build 15 Websites",
+        "provider": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-web-design-course-build-15-websites/"
+      }
+    ]
+  }
+]
+  

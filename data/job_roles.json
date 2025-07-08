@@ -1,0 +1,104 @@
+[
+  {
+    "job_role": "Software Engineer",
+    "required_skills": "programming, data structures, algorithms, oops, git, problem solving"
+  },
+  {
+    "job_role": "Frontend Developer",
+    "required_skills": "html, css, javascript, react, typescript, responsive design, api integration"
+  },
+  {
+    "job_role": "Backend Developer",
+    "required_skills": "node.js, express.js, databases, authentication, rest api, mongodb, sql"
+  },
+  {
+    "job_role": "Full Stack Developer",
+    "required_skills": "html, css, javascript, react, node.js, mongodb, sql, rest api, git"
+  },
+  {
+    "job_role": "DevOps Engineer",
+    "required_skills": "linux, docker, kubernetes, jenkins, aws, ci/cd, monitoring, scripting"
+  },
+  {
+    "job_role": "Mobile App Developer",
+    "required_skills": "java, kotlin, android, ios, flutter, react native, firebase, ui design"
+  },
+  {
+    "job_role": "Data Scientist",
+    "required_skills": "python, statistics, pandas, numpy, machine learning, sql, data visualization"
+  },
+  {
+    "job_role": "Machine Learning Engineer",
+    "required_skills": "python, scikit-learn, deep learning, tensorflow, model deployment, mlops"
+  },
+  {
+    "job_role": "AI Engineer",
+    "required_skills": "python, nlp, computer vision, pytorch, deep learning, transformers"
+  },
+  {
+    "job_role": "Cloud Engineer",
+    "required_skills": "aws, azure, gcp, cloud storage, vm, networking, docker, terraform"
+  },
+  {
+    "job_role": "Data Analyst",
+    "required_skills": "excel, sql, tableau, power bi, pandas, statistics, data cleaning"
+  },
+  {
+    "job_role": "Business Analyst",
+    "required_skills": "sql, excel, data visualization, requirement gathering, communication"
+  },
+  {
+    "job_role": "Data Engineer",
+    "required_skills": "sql, etl, big data, spark, data pipelines, airflow, cloud platforms"
+  },
+  {
+    "job_role": "BI Developer",
+    "required_skills": "power bi, tableau, sql, dax, business intelligence, reporting"
+  },
+  {
+    "job_role": "Data Architect",
+    "required_skills": "data modeling, cloud databases, sql, nosql, big data, architecture design"
+  },
+  {
+    "job_role": "UI/UX Designer",
+    "required_skills": "figma, adobe xd, wireframing, prototyping, user research, design systems"
+  },
+  {
+    "job_role": "Product Manager",
+    "required_skills": "roadmapping, user stories, agile, product lifecycle, analytics, leadership"
+  },
+  {
+    "job_role": "Technical Writer",
+    "required_skills": "documentation, markdown, user guides, tools like confluence, grammar"
+  },
+  {
+    "job_role": "Web Designer",
+    "required_skills": "html, css, bootstrap, figma, responsive design, seo basics"
+  },
+  {
+    "job_role": "Cybersecurity Analyst",
+    "required_skills": "network security, kali linux, wireshark, threat detection, firewalls"
+  },
+  {
+    "job_role": "Blockchain Developer",
+    "required_skills": "solidity, smart contracts, ethereum, web3.js, cryptography, dapps"
+  },
+  {
+    "job_role": "Game Developer",
+    "required_skills": "unity, c#, game physics, blender, game engines, 3d modeling"
+  },
+  {
+    "job_role": "AR/VR Developer",
+    "required_skills": "unity, c#, 3d modeling, oculus sdk, arkit, arcore"
+  },
+  {
+    "job_role": "Prompt Engineer",
+    "required_skills": "nlp, llms, chatgpt, prompt tuning, data generation, few-shot learning"
+  },
+  {
+    "job_role": "QA Engineer",
+    "required_skills": "manual testing, selenium, test cases, automation, jira, api testing"
+  }
+
+
+]
