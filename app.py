@@ -14,11 +14,15 @@ st.markdown("---")
 
 # 🧭 Sidebar Input Section
 st.sidebar.title("🎯 Choose Input Method")
-option = st.sidebar.radio("", ["📝 Enter Skills Manually", "📄 Upload Resume"])
+option = st.sidebar.radio(
+    "Input Method", 
+    ["📝 Enter Skills Manually", "📄 Upload Resume"],
+    label_visibility="collapsed" 
+)
 
 user_skills = ""
 
-# 📥 Input Section
+
 with st.expander("📥 Provide Your Skills", expanded=True):
     if option == "📝 Enter Skills Manually":
         user_skills = st.text_input("💬 Enter your skills (comma-separated):")
@@ -32,7 +36,7 @@ with st.expander("📥 Provide Your Skills", expanded=True):
             user_skills = extract_skills(text)
             st.success(f"✅ Extracted Skills: {user_skills}")
 
-# 🚀 Career Recommendation
+
 if st.button("🚀 Recommend Career Paths"):
     if user_skills:
         recommendations = recommend_roles_spacy(user_skills)
@@ -40,7 +44,7 @@ if st.button("🚀 Recommend Career Paths"):
 
         tabs = st.tabs(["🎯 Career Recommendations", "🧠 Skill Gap & Courses", "🧭 Learning Roadmap"])
 
-        # Tab 1: Recommendations (clean version)
+        # Tab 1: Recommendations
         with tabs[0]:
             st.subheader("🎯 Top Career Path Suggestions")
             st.markdown("Here are the career paths that align with your current skillset:")
